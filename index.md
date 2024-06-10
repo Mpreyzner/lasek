@@ -10,7 +10,6 @@ index.md
 ![fooo faaa](docs/assets/meme.jpg)
 ![fooo faaa](./docs/assets/meme.jpg)
 
-<img src="docs/assets/meme.jpg" alt="Meme">
 
 
 
