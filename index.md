@@ -7,6 +7,10 @@ index.md
 
 "Lasek przy Bażanciarni" is a local initiative aimed at preserving and promoting the natural beauty of the woodland area near the historic pheasantry. This project involves community efforts to maintain trails, organize events, and educate the public about the importance of natural habitats.
 
+
+![A beautiful forest](photo.jpg)
+
+
 ## Project Goals
 
 - **Conservation**: Protect and preserve the natural environment.
