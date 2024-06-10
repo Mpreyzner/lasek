@@ -3,10 +3,12 @@
 Welcome to the "Lasek przy Bażanciarni" project page!
 index.md
 
-## About the Project
+## O projekcie
 
 "Lasek przy Bażanciarni" is a local initiative aimed at preserving and promoting the natural beauty of the woodland area near the historic pheasantry. This project involves community efforts to maintain trails, organize events, and educate the public about the importance of natural habitats.
+Park przy Bażantarni jest wyjątkowym miejscem, które zasługuje na ochronę ze względu na swoje znaczenie historyczne, ekologiczne i społeczne. Ten niewielki obszar zieleni, mimo otoczenia terenami zurbanizowanymi, pełni rolę kluczowego siedliska dla wielu gatunków fauny i flory, a jego fragment leśny stanowi ważne ostoje dla dzikiej przyrody. Ochrona takiego miejsca jest zgodna z zaleceniami Międzyrządowego Zespołu ds. Zmian Klimatu (IPCC), który podkreśla potrzebę zachowania naturalnych ekosystemów w celu przeciwdziałania skutkom zmian klimatycznych i utraty bioróżnorodności.
 
+Ponadto, park ten jest świadkiem bogatej historii regionu, związanej z dawnymi szlakami komunikacyjnymi oraz pałacykiem myśliwskim Bażantarnia. Aleja Kasztanowa, obsadzona kasztanowcami na polecenie cara Aleksandra I, oraz inne wiekowe drzewa, jak głóg jednoszyjkowy czy dąb szypułkowy, stanowią żywe pomniki przyrody i historii. Modernizacja parku, polegająca na budowie infrastruktury rekreacyjnej, może nie tylko zakłócić lokalny ekosystem, ale także zniszczyć te cenne dziedzictwa kulturowe i przyrodnicze. Z tego powodu, warto zachować Park przy Bażantarni w jego naturalnym stanie, aby służył przyszłym pokoleniom jako miejsce wypoczynku, edukacji i kontaktu z naturą.
 ![fooo faaa](docs/assets/meme.jpg)
 ![fooo faaa](./docs/assets/meme.jpg)
 
