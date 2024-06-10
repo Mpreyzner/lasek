@@ -10,7 +10,7 @@ index.md
 
 ![A beautiful forest](photo.jpg)
 
-<img src="images/forest.jpg" alt="A beautiful forest">
+<img src="photo.jpg" alt="A beautiful forest">
 
 
 
