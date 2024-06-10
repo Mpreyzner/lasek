@@ -2,9 +2,27 @@
 
 Welcome to the "Lasek przy Bażanciarni" project page!
 
-## About the Project
+## O projekcie
 
-"Lasek przy Bażanciarni" is a local initiative aimed at preserving and promoting the natural beauty of the woodland area near the historic pheasantry. This project involves community efforts to maintain trails, organize events, and educate the public about the importance of natural habitats.
+W lasku przy starej bażanciarni,
+Gdzie słońce tańczy wśród drzew,
+Żyją wiewiórki, marni,
+I dzięcioł w rytm swoich śpiew.
+
+Wiewiórki skaczą po gałęziach,
+Zbierają orzechy w ciszy,
+Ich świat to spokój w zaroślach,
+W zielonym lesie, bez wysiłku.
+
+Dzięcioł w korze gniazdo ciosa,
+Śpiewa pieśń radosną,
+Jego dźwięk w lesie roznosi,
+Melodię prostą, wzniosłą.
+
+Lasek przy bażanciarni,
+Tajemniczy, stary,
+Tu wiewiórki i dzięcioły
+Tworzą wspólne dary.
 
 ## Project Goals
 
