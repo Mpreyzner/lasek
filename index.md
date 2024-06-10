@@ -7,13 +7,8 @@ index.md
 
 "Lasek przy Bażanciarni" is a local initiative aimed at preserving and promoting the natural beauty of the woodland area near the historic pheasantry. This project involves community efforts to maintain trails, organize events, and educate the public about the importance of natural habitats.
 
-
-![A beautiful forest](photo.jpg)
-first
-![fooo faaa](docs/assets/photo.jpg)
-second
-![de:hub.de-Projekt](photo.jpg)
-third
+![fooo faaa](docs/assets/meme.jpg)
+![fooo faaa](./docs/assets/meme.jpg)
 
 <img src="photo.jpg" alt="A beautiful forest">
 
