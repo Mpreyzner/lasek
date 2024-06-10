@@ -11,8 +11,6 @@ index.md
 ![fooo faaa](./docs/assets/meme.jpg)
 
 
-
-
 ## Project Goals
 
 - **Conservation**: Protect and preserve the natural environment.
