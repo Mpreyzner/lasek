@@ -9,7 +9,7 @@ index.md
 
 
 ![A beautiful forest](photo.jpg)
-![Book logo](docs/assets/photo.jpg)
+![fooo faaa](docs/assets/photo.jpg)
 
 <img src="docs/assets/photo.jpg" alt="A beautiful forest">
 
