@@ -15,7 +15,7 @@ second
 ![de:hub.de-Projekt](photo.jpg)
 third
 
-<img src="docs/assets/photo.jpg" alt="A beautiful forest">
+<img src="photo.jpg" alt="A beautiful forest">
 
 
 
