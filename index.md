@@ -1,6 +1,7 @@
 # Lasek przy Bażanciarni
 
 Welcome to the "Lasek przy Bażanciarni" project page!
+index.md
 
 ## About the Project
 
