@@ -9,9 +9,9 @@ index.md
 
 
 ![A beautiful forest](photo.jpg)
-![Book logo](/assets/photo.jpg)
+![Book logo](docs/assets/photo.jpg)
 
-<img src="photo.jpg" alt="A beautiful forest">
+<img src="docs/assets/photo.jpg" alt="A beautiful forest">
 
 
 
