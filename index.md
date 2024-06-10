@@ -10,6 +10,9 @@ index.md
 
 ![A beautiful forest](photo.jpg)
 
+<img src="images/forest.jpg" alt="A beautiful forest">
+
+
 
 ## Project Goals
 
